@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.APIsAndJSON PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
